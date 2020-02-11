@@ -4,7 +4,7 @@
 
 ### University projects 
 
-[AI Cars](/ai_project)
+[Car Simulation AI](/ai_project)
 <img src="images/ai_project_1.png?raw=true"/>
 
 <!--
