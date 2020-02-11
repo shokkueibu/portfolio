@@ -4,8 +4,8 @@
 
 ### University projects 
 
-[AI Cars](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[AI Cars](/ai_project)
+<img src="images/ai_project_1.png?raw=true"/>
 
 <!--
 ---
@@ -22,7 +22,7 @@
 ### Other projects
 
 - [Solgaard Roleplay](https://forums.taleworlds.com/index.php?threads/wb-m-solgaard-roleplay.263306/) ([Download](https://www.nexusmods.com/mbwarband/mods/5873/?tab=files))
-- [ENL Admin Mod](https://forums.taleworlds.com/index.php?threads/enl-admin-mod-v3-2-0-open-source-by-shock.189676/) ([Download](https://bitbucket.org/shokkueibu/enl-adminmod-public))
+- [ENL Admin Mod](https://forums.taleworlds.com/index.php?threads/enl-admin-mod-v3-2-0-open-source-by-shock.189676/) ([Download](https://bitbucket.org/shokkueibu/enl-adminmod-public/downloads/))
 
 ---
 
